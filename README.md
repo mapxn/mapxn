@@ -2,3 +2,5 @@
 
 ### Hi there 👋
 My name is mapxn.
+
+<div class="ic-contributions-wrapper position-relative"><canvas id="isometric-contributions" width="1000" height="600" style="width: 100%;"></canvas><div>
